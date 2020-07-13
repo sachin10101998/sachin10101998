@@ -9,4 +9,5 @@ JavaScript | Java | Python<br>
 MERN | Sprint Boot | Django<br>
 
 Static Sites |  Conversational AI ChatBots | High Frequency trading <br>
+C++ | Competitive Coder
 Information Security Analyst | Basically, not your average neighbourhood coder.<br>
