@@ -7,3 +7,6 @@ IIT Roorkee 2020<br>
 
 JavaScript | Java | Python<br>
 MERN | Sprint Boot | Django<br>
+
+Static Sites |  Conversational AI ChatBots | High Frequency trading <br>
+Information Security Analyst | Basically, not your average neighbourhood coder.<br>
