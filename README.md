@@ -4,11 +4,11 @@
 
 <li align="left"> 🔭 I’m currently working on <a href="https://github.com/fluid-project/">FLUID Project</a></li>
 
-<li align="left"> 👯 I’m looking to collaborate on [COVID19 India](https://github.com/covid19india/covid19india-react)</li>
+<li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
 
-<li align="left"> 🤔 I’m looking for help with [Java NIO](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html)</li>
+<li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">Java NIO</a></li>
 
-<li align="left"> 👨‍💻 All of my projects are available at [sachinchopra.codes](sachinchopra.codes)</li>
+<li align="left"> 👨‍💻 All of my projects are available at <a href="sachinchopra.codes">sachinchopra.codes</a></li>
 
 <li align="left"> 📝 I regulary write articles on [https://gist.github.com/sachin10101998](https://gist.github.com/sachin10101998)</li>
 
