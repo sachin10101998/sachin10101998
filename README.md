@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Chopra</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
 
 - 🔭 I’m currently working on [FLUID Project](https://github.com/fluid-project/)
 
