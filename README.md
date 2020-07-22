@@ -10,7 +10,7 @@
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="sachinchopra.codes">sachinchopra.codes</a></li>
 
-<li align="left"> 📝 I regulary write articles on [https://gist.github.com/sachin10101998](https://gist.github.com/sachin10101998)</li>
+<li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
 <li align="left"> 💬 Ask me about **JavaScript, Jekyll, 11ty, Hugo, Django**</li>
 
