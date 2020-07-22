@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
 
-- 🔭 I’m currently working on [FLUID Project](https://github.com/fluid-project/)
+<li align="center"> 🔭 I’m currently working on [FLUID Project](https://github.com/fluid-project/)</li>
 
-- 👯 I’m looking to collaborate on [COVID19 India](https://github.com/covid19india/covid19india-react)
+<li align="center"> 👯 I’m looking to collaborate on [COVID19 India](https://github.com/covid19india/covid19india-react)</li>
 
 - 🤔 I’m looking for help with [Java NIO](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html)
 
