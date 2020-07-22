@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with [Java NIO](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html)
 
-- 👨‍💻 All of my projects are available at [sachin10101998.github.io](sachin10101998.github.io)
+- 👨‍💻 All of my projects are available at [sachinchopra.codes](sachinchopra.codes)
 
 - 📝 I regulary write articles on [https://gist.github.com/sachin10101998](https://gist.github.com/sachin10101998)
 
