@@ -12,9 +12,9 @@
 
 <li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
-<li align="left"> 💬 Ask me about **JavaScript, Jekyll, 11ty, Hugo, Django**</li>
+<li align="left"> 💬 Ask me about <b>JavaScript, Jekyll, 11ty, Hugo, Django</b></li>
 
-<li align="left"> 📫 How to reach me **schopra@mt.iitr.ac.in**</li>
+<li align="left"> 📫 How to reach me <b>schopra@mt.iitr.ac.in</b></li>
 
 <li align="left"> ⚡ Fun fact **I am the admin of Indian Institute of Memology 3.0 :D**</li><br>
 
