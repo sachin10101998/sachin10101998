@@ -6,17 +6,17 @@
 
 <li align="center"> 👯 I’m looking to collaborate on [COVID19 India](https://github.com/covid19india/covid19india-react)</li>
 
-- 🤔 I’m looking for help with [Java NIO](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html)
+<li align="center"> 🤔 I’m looking for help with [Java NIO](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html)</li>
 
-- 👨‍💻 All of my projects are available at [sachinchopra.codes](sachinchopra.codes)
+<li align="center"> 👨‍💻 All of my projects are available at [sachinchopra.codes](sachinchopra.codes)</li>
 
-- 📝 I regulary write articles on [https://gist.github.com/sachin10101998](https://gist.github.com/sachin10101998)
+<li align="center"> 📝 I regulary write articles on [https://gist.github.com/sachin10101998](https://gist.github.com/sachin10101998)</li>
 
-- 💬 Ask me about **JavaScript, Jekyll, 11ty, Hugo, Django**
+<li align="center"> 💬 Ask me about **JavaScript, Jekyll, 11ty, Hugo, Django**</li>
 
-- 📫 How to reach me **schopra@mt.iitr.ac.in**
+<li align="center"> 📫 How to reach me **schopra@mt.iitr.ac.in**</li>
 
-- ⚡ Fun fact **I am the admin of Indian Institute of Memology 3.0 :D**
+<li align="center"> ⚡ Fun fact **I am the admin of Indian Institute of Memology 3.0 :D**</li>
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sachin10101998&show_icons=true" alt="sachin10101998" /> </p>
 
