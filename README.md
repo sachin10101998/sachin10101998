@@ -8,7 +8,7 @@
 
 <li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">Java NIO</a></li>
 
-<li align="left"> 👨‍💻 All of my projects are available at <a href="sachinchopra.codes">sachinchopra.codes</a></li>
+<li align="left"> 👨‍💻 All of my projects are available at <a href="http://sachinchopra.codes">sachinchopra.codes</a></li>
 
 <li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
