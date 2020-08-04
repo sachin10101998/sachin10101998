@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Chopra</h1>
+<div>
 <h3 align="left">A passionate Full Stack Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
 
@@ -18,6 +19,7 @@
 
 <li align="left"> ⚡ Fun fact <b>I am the admin of Indian Institute of Memology 3.0 :D</b></li><br/><br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
+</div>
 <p align="left"><img src="http://sachinchopra.codes/DeviCon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><img src="http://sachinchopra.codes/DeviCon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=sachin10101998&show_icons=true" alt="sachin10101998" /> </p>
 <br/><br/>
 <p align="center">
