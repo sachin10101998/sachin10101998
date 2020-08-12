@@ -13,7 +13,7 @@
 
 <li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
-<li align="left"> 💬 Ask me about <b>JavaScript, Jekyll, 11ty, Hugo, Django</b></li>
+<li align="left"> 💬 Ask me about <b>JavaScript, Jekyll, 11ty, Hugo, Django, RASA, MERN</b></li>
 
 <li align="left"> 📫 Reach me at: <b>schopra@mt.iitr.ac.in</b></li>
 
