@@ -13,6 +13,8 @@
 
 <li align ="left"> 📫 Follow me on YouTube: <a href="https://www.youtube.com/channel/UCZwVKgunIoMSttbYeC_WyHg/featured">theSWEshow</a></li>
 
+<li align="left"> 📫 Follow me on LinkedIn : <a href="https://linkedin.com/in/thesweshow">theSWEshow</a></li>
+
 <li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
 <li align="left"> 💬 Ask me about <b>JavaScript, Jekyll, 11ty, Hugo, Django, RASA, MERN</b></li>
@@ -25,7 +27,7 @@
 <br/><br/>
 <p align="center">
 <a href="https://twitter.com/sachin10101998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sachin10101998" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/sachin10101998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachin10101998" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/thesweshow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachin10101998" height="20" width="20" /></a>
 <a href="https://fb.com/sachin.mathers.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sachin.mathers.7" height="20" width="20" /></a>
 <a href="https://instagram.com/superachnural" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="superachnural" height="20" width="20" /></a>
 </p>
