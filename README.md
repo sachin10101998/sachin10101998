@@ -7,7 +7,7 @@
 
 <li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
 
-<li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">Java NIO</a></li>
+<li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">AWS Comprehend</a></li>
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="http://sachinchopra.codes">sachinchopra.codes</a></li>
 
