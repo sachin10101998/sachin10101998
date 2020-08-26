@@ -11,7 +11,7 @@
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="http://sachinchopra.codes">sachinchopra.codes</a></li>
 
-<li align ="left" 📫 Follow me on YouTube: <a href="https://www.youtube.com/channel/UCZwVKgunIoMSttbYeC_WyHg/featured">theSWEshow</a></li>
+<li align ="left"> 📫 Follow me on YouTube: <a href="https://www.youtube.com/channel/UCZwVKgunIoMSttbYeC_WyHg/featured">theSWEshow</a></li>
 
 <li align="left"> 📝 I regulary write articles on <a href="https://gist.github.com/sachin10101998">Github Gists</a></li>
 
