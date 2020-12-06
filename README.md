@@ -31,3 +31,5 @@
 <a href="https://fb.com/sachin.mathers.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sachin.mathers.7" height="20" width="20" /></a>
 <a href="https://instagram.com/superachnural" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="superachnural" height="20" width="20" /></a>
 </p>
+<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin10101998&theme=dark&count_private=true&layout=compact)](https://github.com/sachin10101998/github-readme-stats)
