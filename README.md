@@ -11,7 +11,7 @@
 
 <li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">AWS Comprehend</a></li>
 
-<li align="left"> 👨‍💻 All of my projects are available at <a href="http://sachinchopra.codes">sachinchopra.codes</a></li>
+<li align="left"> 👨‍💻 All of my projects are available at <a href="https://sachin10101998.github.io/">sachinchopra.codes</a></li>
 
 <li align ="left"> 📫 Follow me on YouTube: <a href="https://www.youtube.com/channel/UCZwVKgunIoMSttbYeC_WyHg/featured">theSWEshow</a></li>
 
